@@ -1,0 +1,9 @@
+__pycache__/
+*.bin
+.DS_Store
+.idea/
+.vscode/
+result/*.txt
+result/*.csv
+save_model/*.bin
+!data/*.txt
